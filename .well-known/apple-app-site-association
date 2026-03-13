@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["XGH2QJ5KZS.com.FCDG.openwire.app"],
+        "components": [
+          {
+            "/": "/article*",
+            "comment": "OpenWire article universal links"
+          }
+        ]
+      }
+    ]
+  }
+}
